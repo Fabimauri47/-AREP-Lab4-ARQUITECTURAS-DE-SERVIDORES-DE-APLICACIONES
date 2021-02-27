@@ -63,8 +63,7 @@ public class DemoSpringBoot implements Processor {
                 excep.printStackTrace();
             }
         }
-        return "HTTP/1.1 200 OK\r\n"
-                + "\r\n" + ans;
+        return validOkHeader()+ ans;
     }
 
     public void startServer() {
@@ -82,6 +81,11 @@ public class DemoSpringBoot implements Processor {
         DemoSpringBoot.getInstance().loadComponent(args);
         DemoSpringBoot.getInstance().startServer();
 
+    }
+    public String validOkHeader(){
+        return "HTTP/1.1 200 OK\r\n"
+                + "Content-Type: text/html\r\n"
+                + "\r\n";
     }
 
     @Override
