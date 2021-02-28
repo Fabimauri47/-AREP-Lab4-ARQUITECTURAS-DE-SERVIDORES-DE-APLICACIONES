@@ -2,9 +2,7 @@
 
 ## Introducción Del Proyecto
 
-En esta práctica de laboratorio 3, de la materia AREP, se muestra el desarrollo de un servidor web, mediante el despliegue con la herramienta Heroku. Este servidor web permite el soporte de múltiples requerimientos ejecutados en forma de fila, mas no concurrentemente. El servidor web cuenta con la capacidad de devolver todos los requerimientos solicitados en formato de archivos. Además, de contar un sitio web que fue construido con JavaScript y con el uso de nuestro servidor web. Permitiendo así el funcionamiento de un framework básico y de uso experimental, de uso similar al de Spark.
-
-Aparte de lo ya descrito anteriormente, se procedió a realizar dos desafíos planteados en los cuales consistía coger practica y contexto para este laboratorio, este consistía en el primero en desplegar un servicio web que soportara múltiples tareas, en fila, mas no de forma recurrente, haciendo uso de los servicios de construcción de JavaScript. El segundo reto consistía en escribir un framework similar a Spark, pero mas básico, permitiendo realizar las funciones mencionadas en la parte de arriba, pero con la conexión a un servicio de base datos para realizar la prueba de solución.  
+En este laboratorio 4 Introducción a esquemas de nombres, redes, clientes y servicios con Java, 4 aprendimos a construir un servicio web tipo (Apache) en java, en donde el servidor debe ser capaz de entregar paginas HTML e imágenes tipo PNG. EL proyecto tiene como objetivo que cuando el usuario consulte a nuestro servidor, la aplicación sea capaz de redireccionar las peticiones que envía el servidor, desprendiendo las anotaciones que tenga. Después de realizar la contención de estos servicios se hace una desaplique en Heroku y una integración continua en circleCI.
 
 
 
