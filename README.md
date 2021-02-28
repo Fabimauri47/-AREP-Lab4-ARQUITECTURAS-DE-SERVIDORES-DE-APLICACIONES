@@ -1,4 +1,4 @@
-# ***Lab # 4 Taller de arquitecturas de Servidores y Aplicaciones***
+# ***Lab # 4 Taller de Arquitecturas de Servidores y Aplicaciones***
 
 ## Introducción Del Proyecto
 
