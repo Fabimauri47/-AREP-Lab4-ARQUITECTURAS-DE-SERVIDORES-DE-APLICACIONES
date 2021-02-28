@@ -64,7 +64,7 @@ Para correr las pruebas, usamos el siguiente comando en una terminal CMD o en un
 
 - Para conocer más sobre el desarrollo del proyecto, descargue el proyecto como se explica arriba o revise el informe:
 
-    -[Presione Aqui para revisar documento](https://github.com/Fabimauri47/-AREP-Lab3-CLIENTES-Y-SERVICIOS/blob/main/Lab3_Introducci_n_a_esquemas_de_nombres__redes__clientes_y_servicios_.pdf)
+    -[Presione Aqui para revisar documento](https://github.com/Fabimauri47/-AREP-Lab4-ARQUITECTURAS-DE-SERVIDORES-DE-APLICACIONES/blob/main/Lab_4_Taller_de_Arquitecturas_de_Servidores_y_Aplicaciones.pdf)
 
 ## Construido con
 
