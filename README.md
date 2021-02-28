@@ -12,9 +12,8 @@ En este laboratorio 4 Introducción a esquemas de nombres, redes, clientes y ser
        solo es necesario darle clic al que necesite y lo dirigirá a la página de instalación:
 
 
-    * [Java 8.0](https://www.java.com/es/) - Codificación
+    * [Java 11](https://www.java.com/es/) - Codificación
     * [Maven](https://maven.apache.org/) - Manejo de Dependencias
-    * [JUnit](https://junit.org/junit5/) - Pruebas de Unidad
     * [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git) - Control de Sistemas de veriones.
     * [Heroku](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) - Despligue de Ambiente Web
 
@@ -69,8 +68,7 @@ Para correr las pruebas, usamos el siguiente comando en una terminal CMD o en un
 
 ## Construido con
 
-* [Java 8.0](https://www.java.com/es/) - Codificación y Lenguaje de Programacíon.
-* [JUnit5](https://junit.org/junit5/) - Programa para ejecutar pruebas de unidad.
+* [Java 11.0](https://www.java.com/es/) - Codificación y Lenguaje de Programacíon.
 * [Maven](https://maven.apache.org/) - Manejo de Dependencias.
 * [IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/) - Programa usado para la Codificacíon.
 
